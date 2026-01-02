@@ -1,0 +1,5 @@
+﻿#pane-side [role="row"],
+.statusList [data-focusid="status-row-item"],
+.communityList .community-item {
+  transition: filter 0.25s ease;
+}
